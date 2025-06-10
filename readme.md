@@ -9,12 +9,6 @@ This project provides a workflow for:
 - Training pyannote segmentation models on your data
 - Integrating fine-tuned models into existing pyannote pipelines
 
-## Installation
-
-```bash
-pip install pyannote.audio torch transformers
-```
-
 ## Usage
 
 ### 1. Dataset Creation
